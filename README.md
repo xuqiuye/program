@@ -5,4 +5,5 @@ program
 
 public function helloworld()
 {
+  return 'My name';
 }
